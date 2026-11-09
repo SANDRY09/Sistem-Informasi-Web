@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Contoh HTML</title>
+</head>
+<body>
+
+    <!-- Ini adalah sebuah ELEMEN paragraf secara utuh -->
+    <p class="teks-utama" id="paragraf-1">
+        Ini adalah isi teks di dalam elemen.
+    </p>
+
+    <!-- Contoh elemen link yang menggunakan ATRIBUT (href dan target) -->
+    <a href="https://w3schools.com" target="_blank">
+        Kunjungi website W3Schools
+    </a>
+
+</body>
+</html>
