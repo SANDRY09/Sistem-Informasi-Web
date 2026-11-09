@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <!-- Metadata dan judul halaman -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contoh Komentar HTML</title>
+</head>
+
+<body>
+    <!-- Bagian Header -->
+    <header>
+        <h1>Selamat Datang di Website Saya</h1>
+        <!-- Deskripsi singkat header -->
+        <p>Ini adalah contoh penggunaan komentar dalam HTML.</p>
+    </header>
+
+    <!-- Navigasi utama -->
+    <nav>
+        <ul>
+            <li>Beranda</li>
+            <li>Tentang</li>
+            <li>Kontak</li>
+        </ul>
+    </nav>
+
+    <!-- Konten utama -->
+    <main>
+        <h2>Artikel Utama</h2>
+        <p>Ini adalah paragraf utama di halaman ini.</p>
+
+        <!-- Menonaktifkan elemen sementara -->
+        <!-- <p>Paragraf ini disembunyikan menggunakan komentar.</p> -->
+
+        <p>Ini paragraf lain. <!-- komentar di dalam baris --> </p>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 Website Saya</p>
+    </footer>
+</body>
+</html>
