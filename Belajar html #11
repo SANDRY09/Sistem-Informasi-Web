@@ -1,0 +1,46 @@
+<form action="/proses" method="POST">
+  <h3>Form Pendaftaran</h3>
+
+  <!-- Input teks -->
+  <label for="nama">Nama Lengkap:</label>
+  <input type="text" id="nama" name="nama" placeholder="Masukkan nama" required>
+
+  <!-- Input email -->
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email" placeholder="contoh@email.com" required>
+
+  <!-- Input password -->
+  <label for="password">Password:</label>
+  <input type="password" id="password" name="password" required>
+
+  <!-- Radio button -->
+  <p>Jenis Kelamin:</p>
+  <input type="radio" id="laki" name="gender" value="Laki-laki">
+  <label for="laki">Laki-laki</label>
+
+  <input type="radio" id="perempuan" name="gender" value="Perempuan">
+  <label for="perempuan">Perempuan</label>
+
+  <!-- Checkbox -->
+  <p>Hobi:</p>
+  <input type="checkbox" id="membaca" name="hobi" value="Membaca">
+  <label for="membaca">Membaca</label>
+
+  <input type="checkbox" id="olahraga" name="hobi" value="Olahraga">
+  <label for="olahraga">Olahraga</label>
+
+  <!-- Select dropdown -->
+  <label for="kota">Kota:</label>
+  <select id="kota" name="kota">
+    <option value="Mamuju">Mamuju</option>
+    <option value="Majene">Majene</option>
+    <option value="Polewali Mandar">Polewali Mandar</option>
+  </select>
+
+  <!-- Textarea -->
+  <label for="pesan">Pesan:</label>
+  <textarea id="pesan" name="pesan" rows="4" placeholder="Tulis pesan Anda..."></textarea>
+
+  <!-- Tombol submit -->
+  <button type="submit">Daftar</button>
+</form>
