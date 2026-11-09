@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Contoh Paragraf HTML</title>
+</head>
+<body>
+
+    <p>Ini adalah paragraf pertama. Teks ini akan ditampilkan sebagai satu blok terpisah oleh browser.</p>
+
+    <p>Ini adalah paragraf kedua. Setiap kali Anda menggunakan tag p baru, browser otomatis memberikan jarak spasi.</p>
+
+</body>
+</html>
