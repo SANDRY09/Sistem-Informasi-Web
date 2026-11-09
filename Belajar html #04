@@ -1,0 +1,17 @@
+<head>
+    <title>Contoh Heading HTML</title>
+</head>
+<body>
+
+    <h1>Judul Utama Halaman</h1>
+    <h2>Subjudul Bagian Pertama</h2>
+    <h3>Sub-subjudul Penjelasan</h3>
+
+    <h2>Subjudul Bagian Kedua</h2>
+    <h4>Detail Tambahan</h4>
+
+    <h5>Catatan Kecil</h5>
+    <h6>Heading Paling Kecil</h6>
+
+</body>
+</html>
