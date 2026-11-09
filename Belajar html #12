@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Contoh Elemen Semantik</title>
+</head>
+<body>
+
+  <header>
+    <h1>Belajar HTML Semantik</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#home">Beranda</a></li>
+      <li><a href="#artikel">Artikel</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <article>
+      <h2>Pengertian Elemen Semantik</h2>
+      <p>Elemen semantik membantu struktur halaman lebih jelas.</p>
+    </article>
+
+    <aside>
+      <p>Catatan: Elemen semantik penting untuk SEO.</p>
+    </aside>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Belajar HTML</p>
+  </footer>
+
+</body>
+</html>
