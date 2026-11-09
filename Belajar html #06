@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Text Formatting HTML</title>
+</head>
+<body>
+    <h2>Contoh Formatting Teks di HTML</h2>
+
+    <p><b>Teks Tebal</b> dan <strong>Teks Penting</strong></p>
+    <p><i>Teks Miring</i> dan <em>Penekanan</em></p>
+    <p><u>Garis Bawah</u> dan <mark>Highlight</mark></p>
+    <p><small>Teks Kecil</small></p>
+    <p><del>Rp 50.000</del> menjadi <ins>Rp 35.000</ins></p>
+    <p>Air: H<sub>2</sub>O</p>
+    <p>Kuadrat: x<sup>2</sup></p>
+</body>
+</html>
