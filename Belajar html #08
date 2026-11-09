@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <title>Spreadsheet dengan Foto</title>
+ <style>
+   table { border-collapse: collapse; width: 50%; }
+   td, th { border: 1px solid #ccc; padding: 8px; text-align: center; }
+   img { display: block; margin: auto; }
+ </style>
+</head>
+<body>
+ <h2>Data Pegawai</h2>
+ <table>
+   <tr>
+     <th>Nama</th>
+     <th>Foto</th>
+   </tr>
+   <tr>
+     <td>Andi</td>
+     <td><img src="images/andi.jpg" alt="Foto Andi" width="80" height="80"></td>
+   </tr>
+   <tr>
+     <td>Budi</td>
+     <td><img src="https://example.com/foto/budi.png" alt="Foto Budi" width="80" height="80"></td>
+   </tr>
+ </table>
+</body>
+</html>
