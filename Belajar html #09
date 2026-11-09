@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Contoh List HTML</title>
+</head>
+<body>
+   <h3>Ordered List</h3>
+   <ol type="A">
+       <li>HTML</li>
+       <li>CSS</li>
+       <li>JavaScript</li>
+   </ol>
+   <h3>Unordered List</h3>
+   <ul type="square">
+       <li>Linux</li>
+       <li>Windows</li>
+       <li>MacOS</li>
+   </ul>
+   <h3>Description List</h3>
+   <dl>
+       <dt>HTML</dt>
+       <dd>Bahasa markup untuk membuat halaman web.</dd>
+       <dt>CSS</dt>
+       <dd>Mengatur tampilan halaman web.</dd>
+   </dl>
+</body>
+</html>
