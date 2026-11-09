@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contoh Menampilkan Video di HTML</title>
+</head>
+<body>
+    <h2>Contoh Video HTML5</h2>
+
+    <!-- Video lokal -->
+    <video width="480" controls>
+        <!-- Format video yang didukung browser -->
+        <source src="video.mp4" type="video/mp4">
+        <source src="video.webm" type="video/webm">
+        <source src="video.ogg" type="video/ogg">
+        <!-- Pesan jika browser tidak mendukung video -->
+        Browser Anda tidak mendukung tag video.
+    </video>
+
+    <hr>
+
+    <!-- Video dari YouTube menggunakan iframe -->
+    <h2>Video dari YouTube</h2>
+    <iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
+</body>
+</html>
